@@ -71,7 +71,7 @@ let questions = [
    {
     numb: 7,
     question: "Onde se localiza Machu Picchu?",
-    answer: "(a)  Peru",
+    answer: "(a) Peru",
     options: [
       "(a) Peru",
       "(b) China",
