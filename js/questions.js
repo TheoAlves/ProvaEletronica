@@ -19,7 +19,7 @@ let questions = [
        "(a) Qualqueres cidadons",
        "(b) Qualqueri cidadãos",
        "(c) Aqueles cidadões",
-	     "(d) Quaisquer cidadãos"
+	   "(d) Quaisquer cidadãos"
     ]
   },
     {
@@ -30,18 +30,18 @@ let questions = [
           "(a) 24 letras",
           "(b) 26 letras",
           "(c) 27 letras",
-	        "(d) 25 letras"
+	      "(d) 25 letras"
     ]
   },
     {
     numb: 4,
-    question: "Que pais tem na bandera uma espécie de uma folha?",
+    question: "Que país tem na bandeira uma espécie de uma folha?",
     answer:  "(c) Canadá",
     options: [
      "(a) Japão",
      "(b) Coreia do Norte",
      "(c) Canadá",
-	   "(d) Rússia"
+	 "(d) Rússia"
     ]
   },
     {
@@ -61,7 +61,7 @@ let questions = [
     question: "Quem foi a primeira pessoa a viajar no Espaço?",
     answer: "(b) Yuri Gagarin",
     options: [
-      "(a)  Buzz Aldrin",
+      "(a) Buzz Aldrin",
       "(b) Yuri Gagarin",
       "(c) A cadela Laika",
       "(d) Neil Armstrong"
@@ -73,10 +73,10 @@ let questions = [
     question: "Onde se localiza Machu Picchu?",
     answer: "(a)  Peru",
     options: [
-      "(a)  Peru",
+      "(a) Peru",
       "(b) China",
       "(c) Bolívia",
-      "(d)  Índia"
+      "(d) Índia"
     ]
   },
 
@@ -85,10 +85,10 @@ let questions = [
     question: "Quem inventou a lâmpada?",
     answer: "(c) Thomas Edison",
     options: [
-      "(a)  Graham Bell",
+      "(a) Graham Bell",
       "(b) Steve Jobs",
       "(c) Thomas Edison",
-      "(d) Péle"
+      "(d) Pelé"
     ]
   },
 
@@ -111,7 +111,7 @@ let questions = [
     options: [
       "(a) Ela, a feiticeira",
       "(b) O senhor dos anéis",
-      "(c) O pequeno principe",
+      "(c) O pequeno príncipe",
       "(d) Dom Quixote"
     ]
   },

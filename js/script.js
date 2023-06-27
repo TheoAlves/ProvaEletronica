@@ -160,7 +160,7 @@ function showResult(){
     if (userScore > 3){ // se o usuário marcou mais de 3
         
 //criando uma nova tag span e passando o número da pontuação do usuário e o número total da pergunta
-        let scoreTag = '<span>Parabéns🎉, Voce acertou <p>'+ userScore +'</p> de<p>'+ questions.length +'</p></span>';
+        let scoreTag = '<span>Parabéns🎉, Você acertou <p>'+ userScore +'</p> de<p>'+ questions.length +'</p></span>';
         scoreText.innerHTML = scoreTag;  //adicionando nova tag span dentro do score_Text
     }
     else if(userScore > 1){ // se o usuário marcou mais de 1
